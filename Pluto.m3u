@@ -14,14 +14,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Barney
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", 
-Beyblade](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632119a92c3b880007d3f5dc/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Animé & Gaming] [335] [AR]
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Beyblade
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632119a92c3b880007d3f5dc/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
  
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Bob Esponja Pantalones Cuadrados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", 
-Boom](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6099600015e88c0007ecda25/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Entretenimiento] [196] [AR] 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Boom
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6099600015e88c0007ecda25/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Cazador de Homicidas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -29,10 +29,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a1
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", CBS News
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Chilevision Contigo](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f407/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Entretenimiento] [134] [AR] 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Chilevision Noticias](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Noticias] [208] [AR] 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Chimenea Navideña](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8a0f421418bd0007e14548/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Felices Fiestas] [97] [AR] 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Chiquititas](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620e67a63b5e370007e06bb2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Entretenimiento] [146] [AR] 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Chilevision Contigo
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f407/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Chilevision Noticias
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Chimenea Navideña
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8a0f421418bd0007e14548/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Chiquititas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620e67a63b5e370007e06bb2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Comedy Central Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -51,8 +57,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e914
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Dog el cazarrecompensas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner= 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", El Encantador de Perros](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Curiosidad] [274] [AR] 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", El Mariachi](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612f8b455ed5810007170b5f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Entretenimiento] [121] [AR]
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", El Encantador de Perros
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", El Mariachi
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612f8b455ed5810007170b5f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", El Reino Infantil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner= 
@@ -71,10 +81,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef2500072822
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", FailArmy
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", [FUEL TV](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf0007107714/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Deportes] [403] [AR] 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Fútbol Para Fans](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Deportes] [405] [AR] 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Gran Hermano en vivo](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Entretenimiento] [141] [AR] 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Guía de canales](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Pluto TV] [1] [AR] 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", FUEL TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf0007107714/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner= 
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Fútbol Para Fans
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Gran Hermano en vivo
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+ 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Guía de canales
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Hechizada
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -88,7 +105,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Ice Pilots
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62154548a2be360007cb02f0/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Iron Chef](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b9855c6b58b000724477f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Entretenimiento] [192] [AR] 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Iron Chef
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b9855c6b58b000724477f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Karaoke por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -102,8 +120,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d08af527ce19000731ea
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", La Selección
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63211ba9cad976000794f988/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", La Voz Argentina](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/629919a7c23b400008ad69fb/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Entretenimiento] [140] [AR] 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Las Pistas de Blue](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Kids] [707] [AR] 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", La Voz Argentina
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/629919a7c23b400008ad69fb/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Las Pistas de Blue
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Los archivos del FBI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -114,12 +135,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6322099c822bbc00074857
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",  Luces Navideñas](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8a0e7a9ab0370008b177f2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Felices Fiestas] [96] [AR] 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",  Luces Navideñas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8a0e7a9ab0370008b177f2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Lucha Libre AAA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Maestros de la Ilusión](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254ab6fa74f8e0007ba6879/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Curiosidad] [260] [AR]
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Maestros de la Ilusión
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254ab6fa74f8e0007ba6879/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", MasterChef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -136,7 +159,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f6800086768
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Motorvision TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", MTV Animaciones](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Entretenimiento] [171] [AR] 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", MTV Animaciones
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", MTV Biggest Pop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -185,8 +209,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Paisajes por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
  
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Paramount+ Presenta](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Paramount+ Presenta] [100] [AR] 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", People are Awesome](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac65911406400078b8993/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Entretenimiento] [173] [AR] 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Paramount+ Presenta
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", People are Awesome
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac65911406400078b8993/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Pluto TV  Competencias
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6d935d000120009bc1132/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -203,7 +230,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Pluto TV Anime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Pluto TV Anime Héroes](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Animé & Gaming] [340] [AR] 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Pluto TV Anime Héroes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Pluto TV Animé Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -262,8 +290,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Pluto TV España
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffe17e3d765170007c3a4fe/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
  
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Pluto TV Fashionstream](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Estilo de Vida] [563] [AR] 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Pluto TV Filmstream](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c71/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Películas] [77] [AR] 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Pluto TV Fashionstream
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner= 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Pluto TV Filmstream
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c71/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Pluto TV Historia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -301,7 +331,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078cad
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Pluto TV Reality
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Pluto TV Recetas](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Estilo de Vida] [555] [AR] 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Pluto TV Recetas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Pluto TV Retro Cartoons
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -330,18 +361,23 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Pluto TV Vida Real
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Rock Story](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f159209fcc3800076ed4a1/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Entretenimiento] [122] [AR] 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Rock Story
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f159209fcc3800076ed4a1/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Rugrats
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Schitt's Creek](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ac814864949000724fb77/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Comedia] [508] [AR] 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Señorita Pólvora](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f323397027f90007542bc3/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Entretenimiento] [120] [AR]
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Schitt's Creek
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ac814864949000724fb77/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Señorita Pólvora
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f323397027f90007542bc3/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Sin Tetas No Hay Paraíso 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Susana Giménez](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6132429ec9e0db0007a91425/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Entretenimiento] [147] [AR] 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Susana Giménez
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6132429ec9e0db0007a91425/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Tastemade
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -349,15 +385,23 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797ba
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Telefe Hits
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Telefe Noticias](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Noticias] [205] [AR] 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Telefe Pluto TV](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613237a1c9e0db0007a91350/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Entretenimiento] [144] [AR] 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Teve Compras](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6307a6bd8157cf00075d352d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Estilo de Vida] [598] [AR] 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", The Ed Sullivan Show](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e017e44823db000726cd9a/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Entretenimiento] [110] [AR] 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Telefe Noticias
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+ 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Telefe Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613237a1c9e0db0007a91350/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+ 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Teve Compras
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6307a6bd8157cf00075d352d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", The Ed Sullivan Show
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e017e44823db000726cd9a/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", The New Detectives
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", The Night Shift](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Entretenimiento] [103] [AR] 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", The Night Shift
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", The Pet Collective
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -368,7 +412,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c3
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Wipe Out
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Younger](http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d56d9fa3070000709e3f7/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=) [Entretenimiento] [175] [AR] 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Younger
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d56d9fa3070000709e3f7/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner= 
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", Yu-Gi-Oh
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
